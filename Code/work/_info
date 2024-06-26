@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Mazdak\Desktop\Sharif\Tamarin\Digital System Design\HW4
+vClock
+Z1 !s100 W]mN@lW>YTAkD:He7^;G70
+Z2 I245Xj;kMjT4_NP@`@;PeS0
+Z3 Va5`3[IRzIh>E8M^BMkHh41
+Z4 dC:\Users\Mazdak\Desktop\Sharif\Tamarin\Digital System Design\Project
+Z5 w1719323944
+Z6 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Clock.v
+Z7 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Clock.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Clock.v|
+Z10 o-work work -O0
+Z11 n@clock
+Z12 !s108 1719329710.559000
+Z13 !s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Clock.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vParking
+!i10b 1
+!s100 =kBAn?H<LoMcPP5?c`R]X2
+Im6@0RWYb^TM0f;o[gCIM;2
+Z14 V4D`>PgAZ<YQ]8I=P[fE^:0
+R4
+w1719343528
+Z15 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Parking.v
+Z16 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Parking.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1719343554.826000
+!s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Parking.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Parking.v|
+!s101 -O0
+R10
+Z18 n@parking
+vTB_Clock
+Z19 !s100 mL_LcfFnM4>Pg4z7:NaRQ3
+Z20 I5NXC6i5Z=Z=:bCW6@joUd2
+Z21 VZKLbQ0798U7i0XCIMm>K;2
+R4
+Z22 w1719314910
+Z23 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Clock.v
+Z24 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Clock.v
+L0 1
+R8
+r1
+31
+Z25 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Clock.v|
+R10
+Z26 n@t@b_@clock
+Z27 !s108 1719329710.699000
+Z28 !s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Clock.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB_Parking
+Z29 !s100 =AE2mj0cAaA6X<o<@LQjU2
+Z30 IV`FK@P<G^@aiALbhBAPiT1
+Z31 VHo6NUY220ICjQCXSf7UOk2
+R4
+Z32 w1719343336
+Z33 8C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Parking.v
+Z34 FC:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Parking.v
+L0 1
+R8
+r1
+31
+Z35 !s90 -reportprogress|300|-work|work|C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Parking.v|
+R10
+Z36 n@t@b_@parking
+!i10b 1
+!s85 0
+Z37 !s108 1719343345.246000
+Z38 !s107 C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Parking.v|
+!s101 -O0
