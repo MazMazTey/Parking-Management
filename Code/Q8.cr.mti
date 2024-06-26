@@ -1,0 +1,29 @@
+{C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Parking.v} {1 {vlog -work work {C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Parking.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Parking
+
+Top level modules:
+	Parking
+
+} {} {}} {C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Clock.v} {1 {vlog -work work {C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/Clock.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Clock
+
+Top level modules:
+	Clock
+
+} {} {}} {C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Parking.v} {1 {vlog -work work {C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Parking.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_Parking
+
+Top level modules:
+	TB_Parking
+
+} {} {}} {C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Clock.v} {1 {vlog -work work {C:/Users/Mazdak/Desktop/Sharif/Tamarin/Digital System Design/Project/TB_Clock.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_Clock
+
+Top level modules:
+	TB_Clock
+
+} {} {}}
